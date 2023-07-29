@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LostFriendFinderOFF
 - 👀 I’m interested in making a website!
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on my website.
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
 <!---
